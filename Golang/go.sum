@@ -1,0 +1,6 @@
+github.com/alecthomas/gozmq v0.0.0-20140622232202-d1b01a2df6b2 h1:avoSu+wd97LeIY/JW9gQQwo6uKmsBOuWtLTJT5ewHWU=
+github.com/alecthomas/gozmq v0.0.0-20140622232202-d1b01a2df6b2/go.mod h1:4M6gCnOnuQEAVnqf5I1tc+/6c6ZiScidY+LkurMUcbY=
+github.com/pebbe/zmq4 v1.2.9 h1:JlHcdgq6zpppNR1tH0wXJq0XK03pRUc4lBlHTD7aj/4=
+github.com/pebbe/zmq4 v1.2.9/go.mod h1:nqnPueOapVhE2wItZ0uOErngczsJdLOGkebMxaO8r48=
+gopkg.in/zeromq/goczmq.v4 v4.1.0 h1:CE+FE81mGVs2aSlnbfLuS1oAwdcVywyMM2AC1g33imI=
+gopkg.in/zeromq/goczmq.v4 v4.1.0/go.mod h1:h4IlfePEYMpFdywGr5gAwKhBBj+hiBl/nF4VoSE4k+0=
