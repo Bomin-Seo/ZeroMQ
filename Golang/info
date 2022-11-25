@@ -1,0 +1,7 @@
+Environment
+- virtual box version : 7.0.2 r154219
+- Ubuntu version : Ubuntu 22.04
+- golang version : go1.19.3
+
+Reference
+- https://github.com/pebbe/zmq4
